@@ -1,0 +1,5 @@
+{
+  "name": "Gridzzly Numbers",
+  "description": "A small puzzle app where users find numbers in order from 1 to N in a grid.",
+  "requestFramePermissions": []
+}
